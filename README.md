@@ -59,14 +59,25 @@ After any event, sending certificates to attendees or participants is very frust
 - Wrong or Incorrect emails will be printed at the end
 
 # Questions?
-
+Drop your message in [Discussion Section](https://github.com/dhanrajdc7/Certificate-Launchpad/discussions)
 
 # Want to Contribute?
+Take a look at [Contributing Guide](https://github.com/dhanrajdc7/Certificate-Launchpad/blob/main/CONTRIBUTING.md)
 
 # Enjoying this Project? 
-If you like this project & you want to support, buy me a coffee
-
-<a href="https://www.buymeacoffee.com/codingpotter"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=codingpotter&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+If you like this project & you want to support, buy me a coffee. Give ⭐️ to this project to spread a word!
 
 # Project Admin
+<div align="center">
 
+<a href="https://github.com/dhanrajdc7"><img src="https://avatars.githubusercontent.com/u/39642060?v=4" width=150px height=150px /></a> 
+  
+### Dhanraj Chavan
+  
+[<img src="https://image.flaticon.com/icons/svg/185/185964.svg" width="35" padding="10">](https://www.linkedin.com/in/dhanrajdc7/)
+[<img src="https://www.flaticon.com/svg/static/icons/svg/1312/1312142.svg" width="35" padding="10">](https://www.twitter.com/codingpotter)
+[<img src="https://image.flaticon.com/icons/svg/185/185985.svg" width="35" padding="10">](https://www.instagram.com/codingpotter/)
+
+<a href="https://www.buymeacoffee.com/codingpotter"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=codingpotter&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+  
+</div>
