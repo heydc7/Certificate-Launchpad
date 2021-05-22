@@ -72,7 +72,7 @@ If you like this project & you want to support, buy me a coffee. Give ⭐️ to 
 
 <a href="https://github.com/dhanrajdc7"><img src="https://avatars.githubusercontent.com/u/39642060?v=4" width=150px height=150px /></a> 
   
-### Dhanraj Chavan
+### **Dhanraj Chavan**
   
 [<img src="https://image.flaticon.com/icons/svg/185/185964.svg" width="35" padding="10">](https://www.linkedin.com/in/dhanrajdc7/)
 [<img src="https://www.flaticon.com/svg/static/icons/svg/1312/1312142.svg" width="35" padding="10">](https://www.twitter.com/codingpotter)
