@@ -52,4 +52,21 @@ After any event, sending certificates to attendees or participants is very frust
 # Adding Name to Certificate
 ![banner](images/axis.png)
 - Identify the `Starting Point` in your Certificate Template & Add it in `main.py`
+- If the name length is larger than 20, then the name will be converted in shorten form.
+
+# All Set
+- Run the code to send certificates to mails
+- Wrong or Incorrect emails will be printed at the end
+
+# Questions?
+
+
+# Want to Contribute?
+
+# Enjoying this Project? 
+If you like this project & you want to support, buy me a coffee
+
+<a href="https://www.buymeacoffee.com/codingpotter"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=codingpotter&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+
+# Project Admin
 
