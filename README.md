@@ -2,7 +2,7 @@
   
 ![banner](images/banner.png)
 
-# Welcome to Certificate Launchpad
+# Welcome to Certificate Launchpad 🚀
 
 Automatically Send Custom Named Certificates via Email
 
