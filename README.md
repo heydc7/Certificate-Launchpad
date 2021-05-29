@@ -2,7 +2,7 @@
   
 ![banner](images/banner.png)
 
-# Welcome to Certificate Launchpad 🚀
+# Welcome to Certificate Launchpad :rocket:
 
 Automatically Send Custom Named Certificates via Email
 
@@ -28,18 +28,21 @@ After any event, sending certificates to attendees or participants is very frust
 
 
 # Getting Started
-- Fork this project 
-- Suggested to use: `PyCharm IDE`
-- Install all dependencies from `requirements.txt`
-
+- Clone this repo `git clone https://github.com/dhanrajdc7/Certificate-Launchpad`
+- Suggested IDE: `JetBrains PyCharm IDE`
+- Install all dependencies from `requirements.txt` by using `pip install -r requirements.txt`
+- **Copy `.env.sample` and rename it `.env`** using
+  - `copy .env.sample .env` on Windows
+  - `cp env.sample .env` on Unix-based Operating systems
+  
 # Setting Up Gmail
 - `Sign In` -> Select `Manage your Google Account` -> Go to `Security` -> Turn on `Less secure app access`
-- Add your Email ID & Password in `main.py`
+- Add your Email ID & Password in `.env`
 - SMTP Gmail Daily Limit - 1000
-- Add `Subject` & `Body` in `main.py`
+- Add `Subject` & `Body` in `.env`
 
 # Data
-- Add Attendees/Participant Data in Excel Sheet in above format & Modify Name of file in `main.py`
+- Add Attendees/Participant Data in Excel Sheet in above format & Modify Name of file in `.env`
 
 | NAME | EMAIL |
 | ---- | ----- |
@@ -47,12 +50,12 @@ After any event, sending certificates to attendees or participants is very frust
 
 # Certificate Template
 - Import your Certificate Template to project directory
-- Rename template name Or Change template name in `main.py`
+- Rename template name Or Change template name in `.env`
 
 # Adding Name to Certificate
 ![banner](images/axis.png)
-- Identify the `Starting Point` in your Certificate Template & Add it in `main.py`
-- If the name length is larger than 20, then the name will be converted in shorten form.
+- Identify the `Starting Point` in your Certificate Template & Add it in `.env`
+- If the name length is larger than 20, then the name will be converted to shortened form.
 
 # All Set
 - Run the code to send certificates to mails
